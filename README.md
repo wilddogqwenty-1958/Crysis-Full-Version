@@ -240,4 +240,4 @@ This repository serves as the official landing page for Crysis. The software is 
 **Get the most recent version of Crysis today!**
 
 ---
-**Last updated:** 2026-11-01 12:58:48 UTC
+**Last updated:** 2026-11-01 18:23:03 UTC
